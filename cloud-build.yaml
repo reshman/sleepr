@@ -58,3 +58,4 @@ steps:
 - name: 'gcr.io/cloud-builders/docker'
   args:
     ['push', 'asia-south1-docker.pkg.dev/sleepr-417706/payments/production']
+    
